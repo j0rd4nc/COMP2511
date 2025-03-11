@@ -1,1 +1,1 @@
-Advent of Code is a yearly event that gives programming problems each day of Christmas.
+Advent of Code is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar.
